@@ -1,12 +1,12 @@
 {
     "captcha_key": "", 
-    "invite": "",
+    "invite": "https://github.com/AarushVilvaray/Discord-Member-Booster/edit/main/config.json#L3C15",
     "threads": 69,
     "proxy_scraper": "y",
 
     "online_tokens": "y",
 
     "join_voice": "n",
-    "channel_id": "",
-    "server_id": ""
+    "channel_id": "1174584544754663435",
+    "server_id": "1174167394365734974"
 }
